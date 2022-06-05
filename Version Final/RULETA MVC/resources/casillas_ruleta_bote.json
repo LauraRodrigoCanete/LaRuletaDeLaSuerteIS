@@ -1,0 +1,118 @@
+{ "CASILLAS": [
+{
+"type" : "CASILLA_PIERDE_TURNO",
+"data" : {}
+}
+,
+{
+"type" : "CASILLA_PUNTOS",
+"data" : { "PUNTOS" : 75 }
+}
+,
+{
+"type" : "CASILLA_PUNTOS",
+"data" : { "PUNTOS" : 50 }
+}
+,
+{
+"type" : "CASILLA_PUNTOS",
+"data" : { "PUNTOS" : 150 }
+}
+,
+{
+"type" : "CASILLA_X2",
+"data" : {}
+}
+,
+{
+"type" : "CASILLA_QUIEBRA",
+"data" : {}
+}
+,
+{
+"type" : "CASILLA_PUNTOS",
+"data" : { "PUNTOS" : 50 }
+}
+,
+{
+"type" : "CASILLA_PUNTOS",
+"data" : { "PUNTOS" : 75 }
+}
+,
+{
+"type" : "CASILLA_PUNTOS",
+"data" : { "PUNTOS" : 100 }
+}
+,
+{
+"type" : "CASILLA_PUNTOS",
+"data" : { "PUNTOS" : 25 }
+}
+,
+{
+"type" : "CASILLA_PUNTOS",
+"data" : { "PUNTOS" : 75 }
+}
+,
+{
+"type" : "CASILLA_PIERDE_TURNO",
+"data" : {}
+}
+,
+{
+"type" : "CASILLA_PUNTOS",
+"data" : { "PUNTOS" : 200 }
+}
+,
+{
+"type" : "CASILLA_PUNTOS",
+"data" : { "PUNTOS" : 75 }
+}
+,
+{
+"type" : "CASILLA_PUNTOS",
+"data" : { "PUNTOS" : 50 }
+}
+,
+{
+"type" : "CASILLA_PUNTOS",
+"data" : { "PUNTOS" : 0 }
+}
+,
+{
+"type" : "CASILLA_BOTE",
+"data" : { }
+}
+,
+{
+"type" : "CASILLA_QUIEBRA",
+"data" : {}
+}
+,
+{
+"type" : "CASILLA_DIVIDE_2",
+"data" : {}
+}
+,
+{
+"type" : "CASILLA_PUNTOS",
+"data" : { "PUNTOS" : 100 }
+}
+,
+{
+"type" : "CASILLA_PUNTOS",
+"data" : { "PUNTOS" : 50 }
+}
+,
+{
+"type" : "CASILLA_PUNTOS",
+"data" : { "PUNTOS" : 75 }
+}
+,
+{
+"type" : "CASILLA_PUNTOS",
+"data" : { "PUNTOS" : 150 }
+}
+
+]
+}

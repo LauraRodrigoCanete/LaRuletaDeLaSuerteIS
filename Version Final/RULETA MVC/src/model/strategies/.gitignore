@@ -1,0 +1,9 @@
+/AlwaysBuyVowelStrategy.class
+/CheckFirstStrategy.class
+/ChooseLetterStrategy.class
+/ChooseNextActionStrategy.class
+/ManualStrategy.class
+/NeverBuyVowelStrategy.class
+/RandomLetterStrategy.class
+/RandomNotUsedLetterStrategy.class
+/SometimesBuyVowelStrategy.class
